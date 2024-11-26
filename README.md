@@ -1,5 +1,5 @@
-# 📋 Workforce Insights Dashboard  
-The **Workforce Insights Dashboard** is a comprehensive project that analyzes employee demographics, performance metrics, attrition trends, and diversity data. It provides actionable insights to support HR decision-making and workforce strategy optimization.  
+# 📋 Workforce Insights 
+This is a comprehensive project that analyzes employee demographics, performance metrics, attrition trends, and diversity data. It provides actionable insights to support HR decision-making and workforce strategy optimization.  
 
 ## 📊 Highlights of the Analysis  
 
@@ -30,7 +30,7 @@ The **Workforce Insights Dashboard** is a comprehensive project that analyzes em
 ![Performance Metrics Icon](https://imgur.com/UVL3HGN.png)  
 
 - **Top Performers:**  
-  - Employee **RM485**, a Sales Executive, scored the highest performance metric at **97 points**.  
+  - Employee **RM485**, a Sales Executive, scored the highest performance score at **97 points**.  
 
 - **Training Insights:**  
   - Training correlates with performance. Only employees with **2+ training sessions** scored over **90 points**.  
@@ -68,12 +68,13 @@ The **Workforce Insights Dashboard** is a comprehensive project that analyzes em
   - The **Sales department** has more Females, while **Research & Development** has more Males.  
 
 ## 📈 Visuals  
+Interact with the Power BI dashboard [here](https://github.com/michaelomi/Workforce-Insights/blob/main/Workforce%20Insights%20Dashboard.pbix).
 
 ### Dashboard Pages  
-1. **Employee Overview**: Gender ratio, age group distribution, tenure distribution, job role distribution.  
-2. **Performance Metrics**: Top 10 performers by role, training performance correlation.  
-3. **Employee Exits**: Heatmap of exit demographics, reasons for exits.  
-4. **Diversity Insights**: Gender, age, department, and location distribution.  
+1. **Employee Overview**: Gender ratio, marital status, age group distribution, tenure distribution, job role distribution.  
+2. **Performance Metrics**: Top 10 performers by role, training performance correlation, department and job role by average monthly income.  
+3. **Employee Exits**: Heatmap of exit demographics, attrition by various categories.  
+4. **Diversity Insights**: Gender by income and departments, tenures by income, employees education field.  
 
 ### Key Features  
 - Dynamic filtering by marital status, and age group.  
