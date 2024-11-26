@@ -76,7 +76,7 @@ The **Workforce Insights Dashboard** is a comprehensive project that analyzes em
 4. **Diversity Insights**: Gender, age, department, and location distribution.  
 
 ### Key Features  
-- Dynamic filtering by department, age group, and tenure.  
+- Dynamic filtering by marital status, and age group.  
 - Interactive charts for exploring relationships between metrics.  
 
 ## 💻 Tools Used  
@@ -87,6 +87,13 @@ The **Workforce Insights Dashboard** is a comprehensive project that analyzes em
 ## 📎 Resources  
 - [Power BI File](https://github.com/michaelomi/Workforce-Insights/blob/main/Workforce%20Insights%20Dashboard.pbix)  
 - [Dataset](https://github.com/michaelomi/Workforce-Insights/blob/main/HR_Analytics.xlsx)
+
+## 🔧 Data Cleaning Notes  
+- Reduced **Employee IDs** from **1480 rows to 1470 rows** by removing duplicates.  
+- Corrected inconsistencies in the **Travel Column** for accurate categorization.  
+- Created calculated columns in Power BI for:  
+  - **Performance Metric**: A weighted formula incorporating Job Involvement, Job Satisfaction, Overtime, Performance Rating, and Training Times.  
+  - **Tenure Range Grouping**: Categorized employees into tenure ranges (e.g., 0-5 years, 6-10 years) for better visualization.  
 
 ## 🌟 About Me  
 [Connect on LinkedIn](https://www.linkedin.com/in/michaelomi/)  
