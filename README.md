@@ -12,7 +12,7 @@ This is a comprehensive project that analyzes employee demographics, performance
 ## 🔍 Key Insights by Dashboard Section  
 
 ### 1. **Employee Overview**  
-![Employee Overview Icon](https://imgur.com/77SJ6Ci.png)  
+![Employee Overview Icon](https://imgur.com/tYcNUfM.png)
 
 - **Demographics:**  
   - **Males** make up **60%** of the workforce, while **Females** account for **40%**.  
@@ -27,7 +27,7 @@ This is a comprehensive project that analyzes employee demographics, performance
   - Only **1.09%** of employees have a tenure of **31-40 years**.  
 
 ### 2. **Performance Metrics**  
-![Performance Metrics Icon](https://imgur.com/UVL3HGN.png)  
+![Performance Metrics Icon](https://imgur.com/f72LfTE.png)
 
 - **Top Performers:**  
   - Employee **RM485**, a Sales Executive, scored the highest performance score at **97 points**.  
@@ -40,7 +40,7 @@ This is a comprehensive project that analyzes employee demographics, performance
   - **Sales** and **Research & Development** departments have the highest-performing employees, with scores of **97 and 95**, respectively.
 
 ### 3. **Employee Exits (Attrition)**  
-![Employee Exits Icon](https://imgur.com/4AuKuv1.png)  
+![Employee Exits Icon](https://imgur.com/2SMXTKc.png)
 
 - **General Trends:**  
   - **16.1%** of employees left the company.  
@@ -56,7 +56,7 @@ This is a comprehensive project that analyzes employee demographics, performance
   - Employees in the **Life Sciences field** and those earning **"Upto 5k"** had the highest attrition rates.  
 
 ### 4. **Diversity Insights**  
-![Diversity Insights Icon](https://imgur.com/JbKznY1.png)  
+![Diversity Insights Icon](https://imgur.com/yHpYjDp.png)
 
 - **Gender and Age:**  
   - Females earn slightly more, with an average monthly income of **$6.7k**, compared to Males at **$6.4k**.  
@@ -95,7 +95,3 @@ Interact with the Power BI dashboard [here](https://github.com/michaelomi/Workfo
 - Created calculated columns in Power BI for:  
   - **Performance Metric**: A weighted formula incorporating Job Involvement, Job Satisfaction, Overtime, Performance Rating, and Training Times.  
   - **Tenure Range Grouping**: Categorized employees into tenure ranges (e.g., 0-5 years, 6-10 years) for better visualization.  
-
-## 🌟 About Me  
-[Connect on LinkedIn](https://www.linkedin.com/in/michaelomi/)  
-Feel free to reach out for collaboration or feedback!
